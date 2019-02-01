@@ -1,6 +1,7 @@
 #!/bin/bash
 # Created by Jeffery Grantham 1/8/2019
 # Usage: piholeimgmount.sh [image]
+# This script assumes that you've already made a folder under /mint called loop
 
 image=$1
 
