@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script is intended for usage in a corn job to periodically create an image of the sd card
+# This script is intended for usage in a cron job to periodically create an image of the sd card
 # a long with logging upon successful image creation.
 DATE=`date +%d-%b-%Y`
 
